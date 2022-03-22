@@ -23,3 +23,65 @@
 大二课件/Database and information system/material/workbench-en.pdf
 *.mp4
 *.zip
+大四资料/Machine learning/Machine learning/ML.pdf
+大四资料/Machine learning/Machine learning/ML2.pdf
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/.idea/.gitignore
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/.idea/.name
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/.idea/deployment.xml
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/.idea/misc.xml
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/.idea/MLclass.iml
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/.idea/modules.xml
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/.idea/other.xml
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/.idea/vcs.xml
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/.ipynb_checkpoints/tutorial-checkpoint.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/data/fortune500.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/project1/Attribute-Selection-with-Filter-and-Wrapper-An-Application-on-Incident-Management-Process.pdf
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/project1/incident_event_log.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/project1/incident_event_log.docx
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/project1/incident_event_log_new.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/project1/pro1.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/project1/.ipynb_checkpoints/pro1-checkpoint.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W1/tutorial.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W10/RecommenderSystemsMovies.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W10/RecommenderSystemsMusic.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W10/Movies Data/movies.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W10/Movies Data/ratings.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W10/Music Data/artists.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W10/Music Data/read me.docx
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W10/Music Data/tags.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W10/Music Data/user_artists.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W10/Music Data/user_friends.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W10/Music Data/user_taggedartists.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W12/iris.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W12/KMeansClustering.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W12/w.py
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W2/Data_Cleaning.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W2/property_data.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W2/property_data1.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W2/property_data2.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W2/SimpleCalculations.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W3/20190919093243.jpg
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W3/bill_authentication.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W3/DecisionTree.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W3/gestational.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W3/GestationalDecisionTree.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W3/test.py
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W4/iris.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W4/kNNIris.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W4/kNNWine.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W4/wine.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W6/__init__.py
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W6/0E29793F94E50727488C8C2CBC1A0504.jpg
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W6/iris.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W6/NaiveBayesIris.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W6/wine.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W8/bill_authentication.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W8/disease.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W8/LogisticRegressionBillAuthentication.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W8/LogisticRegressionDisease.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W8/t.py
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W9/Assignment.py
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W9/bill_authentication.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W9/disease.csv
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W9/LogisticRegressionBillAuthentication.ipynb
+大四资料/Machine learning/Machine learning/lab solutions代码和答案/W9/LogisticRegressionDisease.ipynb
