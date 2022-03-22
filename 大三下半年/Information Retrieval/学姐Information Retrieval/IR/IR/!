@@ -1,0 +1,17 @@
+from cx_Freeze import setup, Executable
+
+# Dependencies are automatically detected, but it might need
+# fine tuning.
+buildOptions = dict(packages = [], excludes = [])
+
+base = 'Console'
+
+executables = [
+    Executable('/Users/XueyiWang/Desktop/IR/16206524/A2.py', base=base, targetName = 'A2.py')
+]
+
+setup(name='IRassignment',
+      version = '3.5',
+      description = 'mo',
+      options = dict(build_exe = buildOptions),
+      executables = executables)

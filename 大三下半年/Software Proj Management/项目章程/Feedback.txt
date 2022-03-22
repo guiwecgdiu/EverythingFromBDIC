@@ -1,0 +1,4 @@
+1、 Background第二部分是copy的吗？文字不统一，且我见过。第三部分的additional requirement没必要写
+2、Goals里面可以再写一些更高层次的抽象的可测量目标，比如在2020.07.01之前完成系统开发测试，保障系统按时上线；
+系统的使用能够将员工的工作效率提高80%等。3、没有写Budget，可以写虚拟的。
+4、第二版对Constrains、Assumptions、Risks、Dependencies都可以进行完善扩展。
